@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.quadro{
+    background-color: lightgray;
+}
+
+.titulo, .subtitulo {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
